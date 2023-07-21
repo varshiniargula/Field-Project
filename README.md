@@ -1,4 +1,4 @@
-# Field-project
+# FIELD PROJECT
 
 ## The main objectives in this project work are 
 ### 1)Interaction with diagnostic centre’s management to gather info regarding the functioning of the diagnostic centre
